@@ -9,7 +9,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=53&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FTools/Ferramentas&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=49&section=footer&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FTools/Ferramentas&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
