@@ -1,10 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=header&reversal=false&fontSize=83&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFFFF&strokeWidth=3&animation=scaleIn&desc=%F0%9F%91%8B%20Ol%C3%A1,%20sou%20Samuel%20Albuquerque&descSize=35&descAlign=50&descAlignY=80&textBg=false&color=V"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=header&reversal=false&fontSize=83&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFFFF&strokeWidth=3&animation=scaleIn&desc=%F0%9F%91%8B%F0%9F%8F%BB%20Ol%C3%A1,%20sou%20Samuel%20Albuquerque&descSize=35&descAlign=50&descAlignY=80&textBg=false&color=V"  />
 </div>
 
 ###
 
 <p align="center">Sou desenvolvedor back-end em início de carreira e estudante de Ciência da Computação, com conhecimentos em Java, C# e desenvolvimento de APIs REST. Tenho interesse em construir soluções eficientes, bem estruturadas e alinhadas às boas práticas de desenvolvimento.<br><br>Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades técnicas e evoluir profissionalmente, com foco em entregar código limpo, escalável e de qualidade. Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.</p>
+
+###
+
+<h3 align="center">🛠️Tools/Ferramentas</h3>
 
 ###
 
@@ -24,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SamuelAlbuquerque/SamuelAlbuquerque/output/snake.svg" alt="Snake animation" />
+<h3 align="center">🛜Social networks</h3>
 
 ###
 
