@@ -9,7 +9,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=53&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FTools/Ferramentas&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=53&section=header&reversal=false&text=%F0%9F%9B%A0%EF%B8%8FTools/Ferramentas&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=53&section=footer&reversal=false&text=%F0%9F%8C%90%20Social%20networks/Rede%20Social&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=49&section=footer&reversal=false&text=%F0%9F%8C%90%20Social%20networks/Rede%20Social&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
@@ -44,6 +44,9 @@
   </a>
   <a href="https://wa.me/5581994367484" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
