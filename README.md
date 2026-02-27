@@ -16,8 +16,9 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1200&color=E5F2F7&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Tech+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1300&color=E5F2F7&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Tech+Stack" />
 </p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="visualstudio logo"  />
   <img width="12" />
@@ -37,7 +38,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=E5F2F7&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Social+Networks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=E5F2F7&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Social+Networks" />
 </p>
 
 <div align="center">
